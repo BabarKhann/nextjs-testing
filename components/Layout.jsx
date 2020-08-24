@@ -1,4 +1,5 @@
-const { default: Nav } = require("./Nav");
+import Nav from "./Nav";
+import "../styles/styles.css";
 
 function Layout(props) {
   return (

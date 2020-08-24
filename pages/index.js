@@ -1,7 +1,5 @@
 import Layout from "../components/Layout";
 
-const { default: Nav } = require("../components/Nav");
-
 function Home() {
   return (
     <Layout>
